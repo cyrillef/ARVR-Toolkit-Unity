@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3E64DB3B-0EDF-1573-CF64-694E831606F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Forge/CodeBase/Editor/MakeChildrenInteractible.cs">
+    <Files>
+      <File FileName="Assets/Forge/ForgeConstants.cs" Line="21" Column="41" />
+      <File FileName="Assets/Forge/CodeBase/ForgeLoader.cs" Line="134" Column="5" />
+      <File FileName="Assets/Forge/CodeBase/Editor/MakeChildrenInteractible.cs" Line="63" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARVR-Toolkit-Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Forge" expanded="True">
+                <Node name="CodeBase" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="MakeChildrenInteractible.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d2478cd6-4dab-4862-a2b6-9fae0ef15615" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
